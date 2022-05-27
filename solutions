@@ -1,0 +1,46 @@
+This program is used to find average of three numbers 
+Enter the first number:
+4
+Enter the second number:
+5
+Enter the third number:
+7
+The average of these numbers is :  
+5.333333333333333
+
+
+This program is used to calculate a person's income tax.
+Enter your Gross Income
+300000
+Enter the number of dependents
+2
+Taxable income is equal to : 
+275000 Rupees
+ 
+And The Income Tax is equal to
+5500000 Rupees
+
+Enter the number of seconds you want to convert:
+430
+This is equal to :
+7 Minutes 10 Seconds
+
+
+This python program is used to add three numbers integer+ string +float and produce result of this sum as string.
+Enter the first number:
+4
+Enter the second number:
+3
+Enter your third number:
+2
+The sum as string is equal to :
+9
+
+
+This program prints out the sine and cosine of the angles ranging from 0 to 345◦ in 15◦ increments
+ 
+So just enter the appropriate value of theta as mentioned by program 
+ 
+Enter the value of theta
+30
+sin(theta)=0.5 And cosine(theta)=0.8660
