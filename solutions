@@ -11,14 +11,14 @@ The average of these numbers is :
 
 This program is used to calculate a person's income tax.
 Enter your Gross Income
-300000
+30000
 Enter the number of dependents
 2
 Taxable income is equal to : 
-275000 Rupees
+14000 Rupees
  
 And The Income Tax is equal to
-5500000 Rupees
+2800.0 Rupees
 
 Enter the number of seconds you want to convert:
 430
